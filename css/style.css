@@ -1,0 +1,19 @@
+body{
+    padding-top: 70px;
+}
+main > .container {
+    padding: 60px 15px 0;
+  }
+.footer{
+    background-color: rgb(243, 243, 243) !important;
+}
+.footer > .container{
+    padding-right: 15px;
+    padding-left: 15px;
+}
+code{
+    font-size: 80%;
+}
+.formTweet{
+    margin-top: 60px !important;
+}
